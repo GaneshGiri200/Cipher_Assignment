@@ -68,6 +68,8 @@ button {
 
 nav {
     background-color:rgba(62, 188, 238, 0.541);
+    Position: sticky;
+    top : 0;
 }
 
 header {
